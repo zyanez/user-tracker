@@ -1,0 +1,19 @@
+{
+    "name": "zyanez/user-tracker",
+    "description": "Laravel package for retrieving user browser, operating system, and device type.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zyanez\\UserTracker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zyanez",
+            "email": "zabdielyanez@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
